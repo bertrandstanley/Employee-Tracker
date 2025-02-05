@@ -9,7 +9,7 @@ This application is an Employee Tracker that will help you organize a company's 
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Test](#test)
 - [Questions](#questions)
 
 ## Installation
