@@ -34,7 +34,7 @@ If you want to contribute, feel free to fork the repository, create a feature br
 ## Test
 Please test all sections by creating different departments, roles, and employees.
 
-## Video-Demo
+## Video Demo
 [Click Here](https://youtu.be/0rQSQin1Bis)
 
 ## Questions
