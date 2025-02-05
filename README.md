@@ -15,7 +15,7 @@ This application is an Employee Tracker that will help you organize a company's 
 ## Installation
 1. Open VS Code 
 2. Git clone the Employee Tracker repository using Git.
-3. Open the Develop folder --> Dist --> db, then open in Integrated Terminal and run node index.
+3. Run "npm i" and "npm run build" in the Develop folder. Then, open the subfolder db located inside the Dist folder in Integrated Terminal and run "node index".
 4. Navigate through the different sections to create departments, roles, and employees.
 4. Answer all the questions.
 5. When you're done, type exit to quit.
